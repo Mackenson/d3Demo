@@ -2,7 +2,7 @@
   "name": "d3jsdemo",
   "version": "1.0.0",
   "description": "D3.js Demo",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "start": "main",
     "test": "echo \"Error: no test specified\" && exit 1"
