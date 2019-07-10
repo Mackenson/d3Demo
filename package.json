@@ -1,0 +1,15 @@
+{
+  "name": "d3jsdemo",
+  "version": "1.0.0",
+  "description": "D3.js Demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "main",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mackenson",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
